@@ -1,0 +1,16 @@
+Minute,Mean fatigue score,Severe frames,Mild frames,Alert frames,Stage
+1,0.6666666666666666,6,8,16,Mild Fatigue
+2,0.8,10,4,16,Mild Fatigue
+3,0.6666666666666666,8,4,18,Mild Fatigue
+4,0.23333333333333334,3,1,26,Alert
+5,0.7,8,5,17,Mild Fatigue
+6,0.8,11,2,17,Mild Fatigue
+7,0.7,9,3,18,Mild Fatigue
+8,0.5666666666666667,6,5,19,Mild Fatigue
+9,0.8,9,6,15,Mild Fatigue
+10,0.26666666666666666,4,0,26,Alert
+11,0.5333333333333333,7,2,21,Mild Fatigue
+12,0.7333333333333333,9,4,17,Mild Fatigue
+13,0.8666666666666667,12,2,16,Mild Fatigue
+14,0.3333333333333333,4,2,24,Alert
+15,0.4666666666666667,3,1,11,Alert

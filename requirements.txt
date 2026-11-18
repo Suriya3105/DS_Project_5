@@ -1,0 +1,12 @@
+matplotlib
+google-genai
+python-dotenv
+sentence-transformers
+faiss-cpu
+streamlit
+pandas==2.2.3
+numpy
+scikit-learn
+tensorflow
+Pillow
+opencv-python-headless
